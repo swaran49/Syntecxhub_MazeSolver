@@ -1,0 +1,9 @@
+# Default ignored files
+ __pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.idea/
+.vscode/
